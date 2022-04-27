@@ -8,7 +8,7 @@ public class College {
 		System.out.println("The college code is 1122");
 		}
 		public void collegeRank() {
-		System.out.println("The rank of college is 12");
+		System.out.println("The rank of college is 123");
 		}
 		public static void main(String[] args) {
 			College c = new College();
